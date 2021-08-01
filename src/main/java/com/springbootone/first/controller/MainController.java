@@ -2,7 +2,6 @@ package com.springbootone.first.controller;
 
 import com.springbootone.first.model.Coffee;
 import com.springbootone.first.repository.CoffeeRepository;
-import org.springframework.data.repository.Repository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
